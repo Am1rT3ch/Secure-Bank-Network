@@ -49,5 +49,3 @@ It showcases core CCNA concepts implemented in a practical, business-oriented en
 This kind of network is suitable for a small-to-medium financial institution or secure office environment, where logical separation and secure management are critical.
 
 ---
-
-Feel free to explore, fork, or suggest improvements!
